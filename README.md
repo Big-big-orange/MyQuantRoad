@@ -1,3 +1,8 @@
+<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
+formula1: $$n==x$$
+
+formula2: $$n!=x$$
+
 # MyQuantRoad
 
 这里将会记录我量化学习过程中整理的资料和阅读笔记
